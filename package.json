@@ -1,7 +1,7 @@
 {
-  "name": "html5-template-webpack-typescript-less-postcss",
+  "name": "html5-template-webpack-typescript-css",
   "version": "1.0.0",
-  "description": "HTML5 template with webpack, typescript, less and postcss",
+  "description": "HTML5 template with webpack, typescript, and css",
   "author": "Matej Lednár",
   "license": "GNU General Public License v3.0",
   "keywords": [
@@ -9,9 +9,8 @@
     "html5",
     "javascript",
     "typescript",
-    "less",
-    "webpack",
-    "postcss"
+    "css",
+    "webpack"
   ],
   "main": "src/js/script.js",
   "scripts": {
